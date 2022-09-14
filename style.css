@@ -1,0 +1,72 @@
+body {
+    font-family: 'Lato', sans-serif;
+    /* margin-top: 50px;
+    margin-left: 50px; */
+}
+
+h1 {
+    font-size: 38px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+
+p {
+    font-size: 18px;
+    color: grey;
+}
+
+span {
+    color: orange;
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.flexible {
+    display: flex;
+}
+
+.three-part {
+    width: 30%;
+    margin-left: 5%;
+    padding: 2%;
+}
+
+.light-blue {
+    background-color: lightblue;
+    border-radius: 15px;
+}
+
+.light-pink {
+    background-color: lightpink;
+    border-radius: 15px;
+}
+
+.light-orange {
+    background-color: rgb(243, 213, 173);
+    border-radius: 15px;
+}
+
+.half-width {
+    width: 40%;
+    margin-top: 20px;
+    padding: 5%;
+}
+
+.half-width img {
+    margin-top: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    border-radius: 4px;
+    background-color: rgb(233, 83, 83);
+    padding: 6px 15px;
+
+
+}
