@@ -16,7 +16,7 @@ h2 {
     font-size: 30px;
     text-align: center;
     position: relative;
-    top: -45px;
+    top: -20px;
 }
 
 h3 {
@@ -100,5 +100,8 @@ footer {
 .second-banner {
     background-image: url(images/shape-2\ \(2\).png);
     background-repeat: no-repeat;
-    background-position: 80% 95%;
+    background-position: 80% 80%;
+}
+.watch{
+    
 }
