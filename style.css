@@ -103,11 +103,16 @@ footer {
 .second-banner {
     background-image: url(images/shape-2\ \(2\).png);
     background-repeat: no-repeat;
-    background-position: 85% 120%;
+    background-position: 85% 100%;
+    padding-bottom: 40px;
 }
 .watch{
-    width:320px;
-    height:320px;
+    /* width:320px;
+    height:320px; */
     border-radius:20px;
     margin-bottom: 5%;
+}
+.responsive-image{
+    width: 100%;
+    height: auto;
 }
